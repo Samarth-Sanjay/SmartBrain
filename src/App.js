@@ -14,6 +14,7 @@ import Register from './components/Register/Register';
 
 const app = new Clarifai.App({
     apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxx'
+    //Please visit clarifai.com for the api key. Cannot share the personal api key.
 });
 
 const particlesOptions = {
